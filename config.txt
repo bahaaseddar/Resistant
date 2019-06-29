@@ -1,0 +1,6 @@
+owner=529016508622438402
+prefix=R
+game=Resistant | Rplay
+stayinchannel=true
+songinstatus=false
+token=NTk0MzM0NTQyNjgxMDc5ODA4.XRa7Xw.a_CQcT-jfQLo5UssnzzQ6RXjRHc
